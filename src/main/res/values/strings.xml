@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="res">%1$.2f kg/m^2. You are %2$s.</string>
+</resources>
